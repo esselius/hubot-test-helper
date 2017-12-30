@@ -10,7 +10,7 @@
     "hubot"
   ],
   "dependencies": {
-    "hubot": ">=3.0.0 <10 || 0.0.0-development"
+    "hubot": "esselius/hubot"
   },
   "devDependencies": {
     "chai": "latest",
